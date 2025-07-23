@@ -3,3 +3,4 @@ description: "Hyperstatic is a sleek, high-performance Jekyll theme built for de
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
+
