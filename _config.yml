@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: Hyperstatic
+description: "Hyperstatic is a sleek, high-performance Jekyll theme built for developers and creators who want blazing-fast load times, a bold aesthetic, and zero distractions."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
